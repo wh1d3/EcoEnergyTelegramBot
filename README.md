@@ -61,7 +61,7 @@ EcoEnergy is a Telegram bot that helps users manage their profiles and view the 
    ```bash
    pip install python-telegram-bot
    ```
-4. Replace YOUR_BOT_TOKEN with your real Telegram bot token in the main.py file.
+4. Replace BOT_TOKEN with your real Telegram bot token in the main.py file.
 5. Run the bot:
    ```bash
    python main.py
